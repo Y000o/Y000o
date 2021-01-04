@@ -42,3 +42,8 @@ Pero me encanta estar aprendiendo cosas nuevas, tengo certificaciones como:
 ## ¿Qué encontrarás en mi perfil?
 
 Me encanta compartir mi conocimiento asi que... encontrarás desde tutoriales hasta repos creadas solamente para guardar payloads.
+
+
+# Mis datos
+
+<img src="https://github-readme-stats.vercel.app/api?username=Y000o&show_icons=true&theme=nord" alt="Stats">
