@@ -46,4 +46,4 @@ Me encanta compartir mi conocimiento asi que... encontrarás desde tutoriales ha
 
 # Mis datos
 
-<img src="https://github-readme-stats.vercel.app/api?username=Y000o&show_icons=true&theme=nord" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Y000o&show_icons=true&theme=chartreuse-dark" alt="Stats">
