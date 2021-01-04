@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hola, Bienvenido a mi perfil de Github! Soy _Y000!_  😊
 
-<!--
-**Y000o/Y000o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ¿Quién soy? 🤔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bueno... soy yo jaja soy solo un apasionado por la seguridad informatica.
+
+Soy ingeniero en sistemas computacionales 👨‍💻
+
+Pero me encanta estar aprendiendo cosas nuevas, tengo certificaciones como:
+
+🔵 Técnico en informatica 
+
+🔵 Técnico en redes de datos
+
+🔵 Técnico en seguridad informática
+
+🔵 Técnico en instalación y reparación de aquipos de computo
+
+
+## Cuento con certificaciónes de Cisco como:
+
+🔵 Introducción a Ciberseguridad
+
+🔵 Cybersecurity Essentials
+
+🔵 NDG Linux Essentials
+
+## Lenguajes 💻
+
+🔴 Bash 
+
+🔴 SQL 
+
+🔴 Un poco de Javascript
+
+🔴 Un poco de Python 
+
+## ¿Qué encontrarás en mi perfil?
+
+Me encanta compartir mi conocimiento asi que... encontrarás desde tutoriales hasta repos creadas solamente para guardar payloads.
