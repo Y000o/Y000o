@@ -17,6 +17,9 @@ Pero me encanta estar aprendiendo cosas nuevas, tengo certificaciones como:
 
 🔵 Técnico en instalación y reparación de aquipos de computo
 
+## Cuento con un diplomado en:
+
+🔴 Diplomado Técnico en Sistemas Informáticos
 
 ## Cuento con certificaciónes de Cisco como:
 
