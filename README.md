@@ -15,7 +15,7 @@ Pero me encanta estar aprendiendo cosas nuevas, tengo certificaciones como:
 
 🔵 Técnico en seguridad informática
 
-🔵 Técnico en instalación y reparación de aquipos de computo
+🔵 Técnico en instalación y reparación de equipos de computo
 
 ## Cuento con un diplomado en:
 
