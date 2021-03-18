@@ -43,6 +43,31 @@ Pero me encanta estar aprendiendo cosas nuevas, tengo certificaciones como:
 
 Me encanta compartir mi conocimiento asi que... encontrarás desde tutoriales hasta repos creadas solamente para guardar payloads.
 
+# En mis escritos encontrarás tutoriales para aprender:
+
+## Inyecciones sql desde lo básico
+
+https://github.com/Y000o/sql_injection_basic
+
+## Inyecciones sql Medio - Avanzado 
+
+https://github.com/Y000o/Sql_injection_medium-advanced.md
+
+## Inyecciones sql Automatizada con SQLMAP
+
+https://github.com/Y000o/Inyeccion-sql-automatizada-con-sqlmap
+
+## Dorking 
+
+https://github.com/Y000o/Dorking
+
+## Escanear redes con NMAP
+
+https://github.com/Y000o/Nmap
+
+## Instalar un sistema wordpress en tu celular 
+
+https://github.com/Y000o/termux-wordpress/blob/master/Android-worpress.md
 
 # Mis datos
 
