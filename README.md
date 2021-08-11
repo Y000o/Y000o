@@ -72,3 +72,6 @@ https://github.com/Y000o/termux-wordpress/blob/master/Android-worpress.md
 # Mis datos
 
 <img src="https://github-readme-stats.vercel.app/api?username=Y000o&show_icons=true&theme=chartreuse-dark" alt="Stats">
+
+
+<a href=https://www.buymeacoffee.com/LuisMadero> Me regalas un libro? 
